@@ -1,0 +1,1 @@
+ssh -i "aws_instance_key.pem" ubuntu@ec2-3-110-119-13.ap-south-1.compute.amazonaws.com
